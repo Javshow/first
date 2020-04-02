@@ -11,10 +11,11 @@
     <modules>
         <module>itripbeans</module>
         <module>itriputils</module>
-        <module>itripauth</module>
         <module>itripsearch</module>
         <module>itripbiz</module>
         <module>itriprade</module>
+        <module>itripdao</module>
+        <module>itripauth</module>
         <module>itripdao</module>
     </modules>
 
